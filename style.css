@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(67, 214, 158);
+}
+
+div
+{
+color: rgb(15, 0, 221);
+}
+
+p
+{
+color: mediumvioletred;
+font-weight: bold;
+letter-spacing: 2px;
+font-size: medium;
+}
+
+.copy_right_footer
+{
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+}
